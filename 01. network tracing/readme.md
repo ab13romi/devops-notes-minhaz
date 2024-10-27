@@ -41,3 +41,5 @@ Now we can see the traffics.
 
 #
 # Created By - [Minhazul Hayat Khan](https://github.com/minhaz1217)
+
+dig +dnssec bd
